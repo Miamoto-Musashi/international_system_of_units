@@ -1,0 +1,15 @@
+{
+
+  "writeKey": "a8726467982417901421-fe28c881a0d2b8cd84c22b59440fb1eef16aa5cd6f3539afe2850e1a178f64ec",
+  "readKey": "a8726467982417901421-e522e196504eb1e41ca601f2781ef9727f2c9fc99d160ac3d60c2fe618d42c7f",
+  
+  "upload": {  
+    "type": "arb",
+    "files": "packages/international_system_of_units_locale/lib/src/i18n/intl_en_US.arb"         
+  },
+  
+  "download": {
+    "files": "packages/international_system_of_units_locale/lib/src/i18n/${lang}.arb"
+  }
+  
+}
